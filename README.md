@@ -241,3 +241,5 @@ Found an error or want to improve this guide? Contributions are welcome!
 
 This guide is provided as-is for educational purposes.
 
+**Author**: Chester Kim  
+**Date**: December 29, 2025
